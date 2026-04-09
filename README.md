@@ -6,7 +6,7 @@
 
 🖥️ Widescreen GUI: Optimized layout with multi-column support for users with massive mod collections.
 
-🎲 Internal Randomizer: Uses a "Pre-Shuffled" logic engine. No more math_rand.ini dependencies.
+🎲 Internal Randomizer: Uses a "pre-shuffled" logic engine. No more math_rand.ini dependencies.
 
 ⌨️ Global Hotkeys: Cycle through your outfits instantly while in-game.
 
