@@ -14,7 +14,7 @@
 
 🎮 How to Use
 
-1- Extract the .exe anywhere. This mod is compeltely portable.
+1- Extract the .exe anywhere. This mod is completely portable.
 
 2- Launch Mod_Cycler_v6.1.exe.
 
