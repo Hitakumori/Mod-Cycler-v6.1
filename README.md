@@ -18,9 +18,11 @@ Launch Mod_Cycler_v6.1.exe.
 
 Browse to your 3dmigoto \Mods folder.
 
-Select Group: Use the dropdown to pick which group you want to cycle (usually Group 1).
+Select Group: Use the dropdown to pick which group you want to cycle.
 
 Generate: Click the button to create your custom mod_cycler.ini.
+
+Apply Changes: Press F10 in game to take affect.
 
 In-Game Control:
 
