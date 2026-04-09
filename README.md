@@ -14,24 +14,26 @@
 
 🎮 How to Use
 
-Launch Mod_Cycler_v6.1.exe.
+1- Extract the .exe anywhere. This mod is compeltely portable.
 
-Browse to your 3dmigoto \Mods folder.
+2- Launch Mod_Cycler_v6.1.exe.
 
-Select Group: Use the dropdown to pick which group you want to cycle.
+3- Browse to your 3dmigoto \Mods folder. (XXMI\..MI\Mods)
 
-Generate: Click the button to create your custom mod_cycler.ini.
+4- Select Group: Use the dropdown to pick which group you want to cycle.
 
-Apply Changes: Press F10 in game to take affect.
+5- Generate: Click the button to create your custom mod_cycler.ini.
 
-In-Game Control:
+6- Press F10 in game to take affect.
+
+In-Game Controls:
 
 PGUP / PGDN: Cycle forward and backward through mods.
 
 CAPSLOCK: Cycle forward automatically.
 
-INSERT: Shuffle the list for a random new look.
+INSERT: Randomize the mods for a random new look.
 
-END: Shuffle the list automatically.
+END: Randomize the mods automatically
 
 Alt + S: Open/ close UI.
