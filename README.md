@@ -1,4 +1,5 @@
 ✨ Key Features
+
 🎯 Group Selection: Choose exactly which character group to control (Group 1, 2, etc.). The tool intelligently finds the correct "Handshake" file.
 
 🚀 Total Portability: Run the .exe from anywhere. Use the built-in browser to point to your \Mods folder.
@@ -10,3 +11,25 @@
 ⌨️ Global Hotkeys: Cycle through your outfits instantly while in-game.
 
 🛡️ 0/64 VirusTotal Clean: Optimized compilation for maximum security.
+
+🎮 How to Use
+
+Launch Mod_Cycler_v6.1.exe.
+
+Browse to your 3dmigoto \Mods folder.
+
+Select Group: Use the dropdown to pick which group you want to cycle (usually Group 1).
+
+Generate: Click the button to create your custom mod_cycler.ini.
+
+In-Game Control:
+
+PGUP / PGDN: Cycle forward and backward through mods.
+
+CAPSLOCK: Cycle forward automatically.
+
+INSERT: Shuffle the list for a random new look.
+
+END: Shuffle the list automatically.
+
+Alt + S: Open/ close UI.
