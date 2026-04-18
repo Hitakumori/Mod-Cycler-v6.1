@@ -1,39 +1,32 @@
-✨ Key Features
-
-🎯 Group Selection: Choose exactly which character group to control (Group 1, 2, etc.). The tool intelligently finds the correct "Handshake" file.
-
-🚀 Total Portability: Run the .exe from anywhere. Use the built-in browser to point to your \Mods folder.
-
-🖥️ Widescreen GUI: Optimized layout with multi-column support for users with massive mod collections.
-
-🎲 Internal Randomizer: Uses a "pre-shuffled" logic engine. No more math_rand.ini dependencies.
-
-⌨️ Global Hotkeys: Cycle through your outfits instantly while in-game.
-
-🛡️ 0/64 VirusTotal Clean: Optimized compilation for maximum security.
-
 🎮 How to Use
+Extract: Move the .exe anywhere. This utility is completely portable.
 
-1- Extract the .exe anywhere. This mod is completely portable.
+Launch: Open Mod_Cycler_v6.4.exe.
 
-2- Launch Mod_Cycler_v6.1.exe.
+Browse: Select your XXMI\...MI\Mods folder (e.g., SRMI\Mods for Honkai Star Rail).
 
-3- Browse to your 3dmigoto \Mods folder. (XXMI\..MI\Mods)
+Select: Check the boxes for the Mod Groups you want to cycle.
 
-4- Select Group: Use the dropdown to pick which group you want to cycle.
+Generate: Click the button to create your custom mod_cycler.ini.
 
-5- Generate: Click the button to create your custom mod_cycler.ini.
+Activate: Press F10 in-game to apply the changes.
 
-6- Press F10 in game to take affect.
+💡 Tip: Once you have generated your .ini file and pressed F10 in-game, you can close the Mod Cycler entirely. It does not need to stay open in the background for the cycler to work!
 
-In-Game Controls:
-
+⌨️ In-Game Default Controls (Fully Rebindable)
 PGUP / PGDN: Cycle forward and backward through mods.
 
-CAPSLOCK: Cycle forward automatically.
+INSERT: Instantly randomize all selected groups for a random new look.
 
-INSERT: Randomize the mods for a random new look.
+CAPSLOCK: Toggle Auto-Cycle (Forward).
 
-END: Randomize the mods automatically
+END: Toggle Auto-Shuffle (Random).
 
-Alt + S: Open/ close UI.
+Alt + S: Show/Hide the Mod Cycler UI.
+
+✨ UI & Customization
+Fully Rebindable: All controls can be changed to any key, punctuation, or mouse button in the UI.
+
+Dynamic Themes: Personalize the UI color and transparency to match your aesthetic.
+
+Group Names: Right-click any group name in the list to rename it.
